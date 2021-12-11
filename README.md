@@ -4,17 +4,6 @@
 
 Aspiring web developer studying at [Business College Helsinki](https://en.bc.fi).
 
-
-## Statistics 🚀
-
-![a-matta's github stats](https://github-readme-stats.vercel.app/api?username=a-matta&show_icons=true&theme=tokyonight). 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-matta&theme=tokyonight" alt="mystreak"/>. 
-
-
-![a-matta's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-matta&theme=tokyonight&layout=compact). 
-
-
 ## Technologies
 
 <p align="left">
@@ -38,3 +27,12 @@ Aspiring web developer studying at [Business College Helsinki](https://en.bc.fi)
     <img alt="CSS" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=black">
   </a>
 </p>
+
+## Statistics 🚀
+
+![a-matta's github stats](https://github-readme-stats.vercel.app/api?username=a-matta&show_icons=true&theme=tokyonight). 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-matta&theme=tokyonight" alt="mystreak"/>. 
+
+
+![a-matta's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-matta&theme=tokyonight&layout=compact). 
