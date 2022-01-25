@@ -2,7 +2,10 @@
 
 ## About Me
 
-Aspiring web developer studying at [Business College Helsinki](https://en.bc.fi).
+🔭 Aspiring web developer studying at [Business College Helsinki](https://en.bc.fi).
+🌱  I’m actively learning React, Typescript, Redux, AWS, Unit Testing(Jest,Mocca), Bootstrap  
+ 👨‍💻 I’m looking for internship during Summer-2022
+📫 How to reach me **matta.amrita@gmail.com**
 
 ## Technologies
  
@@ -24,3 +27,10 @@ Aspiring web developer studying at [Business College Helsinki](https://en.bc.fi)
 
 
 ![a-matta's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-matta&theme=tokyonight&layout=compact). 
+
+## Profile Views
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=a-matta">
+</a>
+<br/>
+<p align="center"> Thank you for visiting my profile! </p>
