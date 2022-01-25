@@ -2,10 +2,10 @@
 
 ## About Me
 
-🔭 Aspiring web developer studying at [Business College Helsinki](https://en.bc.fi).
-🌱  I’m actively learning React, Typescript, Redux, AWS, Unit Testing(Jest,Mocca), Bootstrap  
- 👨‍💻 I’m looking for internship during Summer-2022
-📫 How to reach me **matta.amrita@gmail.com**
+1. 🔭 Aspiring web developer studying at [Business College Helsinki](https://en.bc.fi).
+2. 🌱  I’m actively learning React, Typescript, Redux, AWS, Unit Testing(Jest,Mocca), Bootstrap  
+3. 👨‍💻 I’m looking for internship during Summer-2022
+4. 📫 How to reach me **matta.amrita@gmail.com**
 
 ## Technologies
  
@@ -17,6 +17,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unit/unittesting.png"></code>
+
+
 
 
 ## Statistics 🚀
