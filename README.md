@@ -2,10 +2,7 @@
 
 ## About Me
 
-1. 🔭 Aspiring web developer studying at [Business College Helsinki](https://en.bc.fi).
-2. 🌱  I’m actively learning React, Typescript, Redux, AWS, Unit Testing(Jest,Mocca), Bootstrap  
-3. 👨‍💻 I’m looking for internship during Summer-2022
-4. 📫 How to reach me **matta.amrita@gmail.com**
+1. 📫 How to reach me **matta.amrita@gmail.com**
 
 ## Technologies
  
