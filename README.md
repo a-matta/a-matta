@@ -16,12 +16,11 @@
 
 ## Statistics 🚀
 
-![a-matta's github stats](https://github-readme-stats.vercel.app/api?username=a-matta&show_icons=true&theme=tokyonight). 
+![a-matta's Stats](https://github-readme-stats.vercel.app/api?username=a-matta&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-matta&theme=tokyonight" alt="mystreak"/>. 
+![a-matta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-matta&theme=tokyonight&hide_border=true)
 
-
-![a-matta's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-matta&theme=tokyonight&layout=compact). 
+![a-matta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-matta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## Profile Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
