@@ -2,7 +2,10 @@
 
 ## About Me
 
+1. 🌱 Currently I’m working as a **Test Automation Engineer**
+1. I’m interested in **Software Automation Testing**
 1. 📫 How to reach me **matta.amrita@gmail.com**
+
 
 ## Technologies
 
