@@ -6,7 +6,7 @@
 1. 📫 How to reach me **matta.amrita@gmail.com**
 
 ### My Tools & Tech Stack
-1. Test Automation Tools: Selenium WebDriver, Playwright, Cypress, REST Assured, Robot Framework
+1. Test Automation Tools:  Robot Framework,Selenium WebDriver, Playwright, Cypress, REST Assured
 2. Programming Languages: Python, JavaScript, TypeScript
 
 
