@@ -2,7 +2,7 @@
 
 ## About Me
 
-1. 🌱 Currently I’m working as a **Test Automation Engineer**
+1. 🌱 Currently I’m working as a **Test Automation Specilist Consultant**
 1. 📫 How to reach me **matta.amrita@gmail.com**
 
 ### My Tools & Tech Stack
