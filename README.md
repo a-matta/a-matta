@@ -3,8 +3,11 @@
 ## About Me
 
 1. 🌱 Currently I’m working as a **Test Automation Engineer**
-1. I’m interested in **Software Automation Testing**
 1. 📫 How to reach me **matta.amrita@gmail.com**
+
+### My Tools & Tech Stack
+1. Test Automation Tools: Selenium WebDriver, Playwright, Cypress, REST Assured, Robot Framework
+2.Programming Languages: Python, JavaScript, TypeScript
 
 
 ## Technologies
