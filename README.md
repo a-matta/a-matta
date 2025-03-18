@@ -7,6 +7,7 @@
 
 ### My Tools & Tech Stack
 1. Test Automation Tools: Selenium WebDriver, Playwright, Cypress, REST Assured, Robot Framework
+   
 2.Programming Languages: Python, JavaScript, TypeScript
 
 
