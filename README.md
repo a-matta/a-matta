@@ -3,6 +3,7 @@
 ## About Me
 
 1. 🌱 Currently I’m working as a **Test Automation Specialist Consultant**
+2.  Processes & Methods **Automation, Functional & Non-Functional, Exploratory Testing, Smoke, UAT,E2E, Test Pyramid, End User Testing**
 1. 📫 How to reach me **matta.amrita@gmail.com**
 
 ### My Tools & Tech Stack
