@@ -1,9 +1,10 @@
 # Amrita Matta
 
 ## About Me
+“A great tester gives programmers immediate feedback on what they did right and what they did wrong. Believe it or not, one of the most valuable features of a tester is providing positive reinforcement…”– Joel Spolsky
 
-1. 🌱 Currently I’m working as a **Test Automation Specialist Consultant**
-2.  Processes & Methods **Automation, Functional & Non-Functional, Exploratory Testing, Smoke, UAT,E2E, Test Pyramid, End User Testing**
+1. 🌱 A Passionate **Test Automation Specialist Consultant** 
+2.  Processes & Methods **Automation, Functional & Non-Functional, Exploratory Testing, Smoke, UAT,E2E, Test Pyramid, E2E Testing,Shift Left Testing**
 1. 📫 How to reach me **matta.amrita@gmail.com**
 
 ### My Tools & Tech Stack
